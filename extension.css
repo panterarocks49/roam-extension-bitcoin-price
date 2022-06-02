@@ -1,0 +1,7 @@
+.btc-tracker-container {
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    padding: 5px 20px;
+}
